@@ -43,7 +43,7 @@ class _ColaboradoresState extends State<Colaboradores> {
                   children: [
                     Text(dados['nome'].toString(),
                     style: TextStyle(
-                      fontSize:15,
+                      fontSize:20,
                       fontWeight: FontWeight.bold,
                       ),
                       ),
